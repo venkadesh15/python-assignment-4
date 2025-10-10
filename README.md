@@ -1,17 +1,18 @@
-# python-assignment-4
-Python File Handling Practice
-Description
-This Python program demonstrates basic file handling operations such as writing, reading, and appending data to a file. It also shows how to safely read from a file using the with statement and handle exceptions if the file does not exist.
+🐍**Python Assignment 4**
 
-Task 1: File Reading with Exception Handling
-1.Open sample.txt using the with statement.
-2.Read the first two lines of the file.
-3.Print the lines to the console.
-4.Handle the case where sample.txt does not exist using try-except.
+**Python File Handling Practice** 📂✍️
 
-Task 2: File Writing, Reading, and Appending
-1.Create or overwrite output.txt with "Hello,Python!".
-2.Read and display the content of the file.
-3.Overwrite the file with new data.
-4.Append "Learning file handling in python" to the file.
-5.Read and display the final content of output.txt.
+✅ **Task 1: File Reading with Exception Handling**
+**Procedure:**
+Opened sample.txt using the with statement 📖
+Read the first two lines of the file 📝
+Printed the lines to the console 🖨️
+Handled the case where sample.txt does not exist using try-except ⚠️
+
+✅ **Task 2: File Writing, Reading, and Appending**
+**Procedure:**
+Created or overwrote output.txt with "Hello, Python!" ✍️
+Read and displayed the content of the file 🖨️
+Overwrote the file with new data 🔄
+Appended "Learning file handling in Python" to the file ➕
+Read and displayed the final content of output.txt 🖨️
